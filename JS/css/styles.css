@@ -1,0 +1,22 @@
+p{
+    color: blue;
+
+    
+}
+h1{
+    color:red;
+    font-family: verdana;
+    font-size: 300%;
+}
+
+.img_test{
+    align-self: auto;
+    width: 9em;
+}
+.row {
+    display: flex;
+}
+ 
+.column {
+    flex: 50%;
+}
